@@ -1,2 +1,5 @@
 .venv/
 *.db
+#compiled python files
+_pycache_/
+*.pyc
