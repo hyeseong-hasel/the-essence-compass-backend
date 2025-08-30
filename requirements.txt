@@ -1,5 +1,4 @@
 Flask
 Flask-SQLAlchemy
 Flask-CORS
-gunicorn"Flask" 
-"gunicorn" 
+gunicorn
